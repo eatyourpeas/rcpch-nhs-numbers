@@ -1,5 +1,7 @@
 
-# A python 3.11 module for NHS numbers
+# RCPCH-NHS-Numbers
+
+## A python 3.11 module for NHS numbers
 
 Currently it offers:
 
@@ -25,4 +27,3 @@ This package is designed to be a conversation starter, not the definitive soluti
 
 1. Tweak and improve the versions offered here
 2. Begin a conversation about what other scope might be included (eg Scotland, Wales and NI)
-3. 
