@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: rcpch-nhs-numbers
+Version: 0.0.1
+Summary: NHS number tools
+Author-email: eatyourpeas <simon@eatyourpeas.co.uk>, anchit chandran <anchit97123@gmail.com>, marcus baw <marcusbaw@gmail.com>
+Project-URL: Homepage, https://github.com/rcpch/rcpch-nhs-numbers
+Project-URL: Bug Tracker, https://github.com/rcpch/rcpch-nhs-numbers/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+A python 3.11 module for NHS numbers.
+
+Currently it offers:
+
+NHS number validation
+Unique random NHS number generation
